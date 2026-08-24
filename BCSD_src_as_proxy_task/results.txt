@@ -1,0 +1,71 @@
+nohup: ignoring input
+nohup: ignoring input
+nohup: ignoring input
+Skipping block around line 2641: Unterminated string starting at: line 1 column 948565 (char 948564)
+Skipping block around line 2642: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2643: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2644: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2645: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2646: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2647: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2648: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2649: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2650: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2651: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2652: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2653: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2654: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2655: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2656: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2657: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2658: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2659: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2664: Unterminated string starting at: line 1 column 95 (char 94)
+Skipping block around line 2665: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2666: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2667: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2668: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2669: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2670: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2671: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2672: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2673: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2674: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2675: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2676: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2677: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2678: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2679: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2680: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Skipping block around line 2681: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+Loaded 420925 individual pairs across all binary variants!
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loaded 36275 individual pairs across all binary variants!
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 19710.63it/s]
+Starting Supervised Contrastive Training Loop (Source vs. Binary)...
+nohup: ignoring input
+Loaded 70 individual pairs across all binary variants!
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loaded 132 individual pairs across all binary variants!
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 17039.57it/s]
+Starting Supervised Contrastive Training Loop (Source vs. Binary)...
+Epoch 1/20 | Train Loss: 2.3919 | Test Loss: 4.8505
+Epoch 2/20 | Train Loss: 2.3040 | Test Loss: 4.8536
+Epoch 3/20 | Train Loss: 2.2898 | Test Loss: 4.8532
+Epoch 4/20 | Train Loss: 2.2857 | Test Loss: 4.8498
+Epoch 5/20 | Train Loss: 2.2814 | Test Loss: 4.8408
+Epoch 6/20 | Train Loss: 2.2699 | Test Loss: 4.8262
+Epoch 7/20 | Train Loss: 2.2616 | Test Loss: 4.8096
+Epoch 8/20 | Train Loss: 2.2155 | Test Loss: 4.7920
+Epoch 9/20 | Train Loss: 2.2011 | Test Loss: 4.7683
+Epoch 10/20 | Train Loss: 2.1798 | Test Loss: 4.7459
+Epoch 11/20 | Train Loss: 2.1454 | Test Loss: 4.7317
+Epoch 12/20 | Train Loss: 2.0867 | Test Loss: 4.7109
+Epoch 13/20 | Train Loss: 2.0407 | Test Loss: 4.7076
+Epoch 14/20 | Train Loss: 1.9542 | Test Loss: 4.7192
+Epoch 15/20 | Train Loss: 1.8701 | Test Loss: 4.7594
+Epoch 16/20 | Train Loss: 1.8130 | Test Loss: 4.8368
+Epoch 17/20 | Train Loss: 1.7040 | Test Loss: 4.9023
+Epoch 18/20 | Train Loss: 1.6668 | Test Loss: 4.9590
+Epoch 19/20 | Train Loss: 1.6115 | Test Loss: 4.9636
+Epoch 20/20 | Train Loss: 1.5477 | Test Loss: 4.8854
